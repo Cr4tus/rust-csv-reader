@@ -3,7 +3,7 @@
 ## What does the app do?
 The app takes the *.csv* file path as a program argument and tries to read it and print all its lines within the standard output file.
 
-## Languages:
+## Programming Languages:
 - Rust
 
 ## Frameworks & Libraries:
